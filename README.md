@@ -315,4 +315,3 @@ This project is for educational and evaluation purposes. Please ensure complianc
 
 ---
 
-**Built with ❤️ for ATG Technical Assignment**
