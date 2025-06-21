@@ -237,7 +237,7 @@ Use `stats` command to see:
 - Label distribution
 - Average confidence scores
 
-## 🎬 Demo Video
+## 🎬 Demo Video(Video_Demo.mp4)
 
 The demo video should showcase:
 
